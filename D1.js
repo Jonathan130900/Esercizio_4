@@ -70,3 +70,11 @@ console.log("Somma della sottrazione tra", sottrazione, "e", x, "equivale a", ri
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+var name1 = 'john'
+var name2 = 'John'
+var nomiCombaciano = (name1 == name2)
+console.log(nomiCombaciano)
+
+/* EXTRA */
+var nomiCombacianoCase = (name1.toLowerCase() === name2.toLowerCase());
+console.log(nomiCombacianoCase);
