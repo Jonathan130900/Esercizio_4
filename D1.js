@@ -23,12 +23,17 @@ console.log(a, 'Questo invece è il datatype "Boolean" che è fatto di soli 2 va
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+var myName; {
+  myName = 'Jonathan'
+  console.log(myName)
+}
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
