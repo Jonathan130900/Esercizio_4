@@ -33,7 +33,10 @@ var myName; {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-
+var addizione1 = 12
+var addizione2 = 20
+var risultatoAddizione = addizione1+addizione2
+console.log("Somma dell'addizione tra", addizione1, "e", addizione2, "equivale a", risultatoAddizione)
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
