@@ -43,6 +43,8 @@ console.log("Somma dell'addizione tra", addizione1, "e", addizione2, "equivale a
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+var x = 12
+console.log("Il valore della variabile 'x' è", x)
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
