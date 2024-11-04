@@ -23,10 +23,8 @@ console.log(a, 'Questo invece è il datatype "Boolean" che è fatto di soli 2 va
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-var myName; {
-  myName = 'Jonathan'
-  console.log(myName)
-}
+const myName = 'Jonathan'
+console.log(myName)
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -52,6 +50,9 @@ console.log("Il valore della variabile 'x' è", x)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+/*myName = 'Bergadano'
+console.log(myName)*/
+console.log('Una constable è un valore costante che non può essere modificata nuovamente. Per quello al posto di const si dovrà usare var')
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
