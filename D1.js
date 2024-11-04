@@ -59,6 +59,9 @@ console.log('Una constable è un valore costante che non può essere modificata 
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+var sottrazione = 4
+var risultatoSottrazione = sottrazione-x
+console.log("Somma della sottrazione tra", sottrazione, "e", x, "equivale a", risultatoSottrazione)
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
