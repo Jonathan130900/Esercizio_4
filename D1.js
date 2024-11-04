@@ -23,6 +23,7 @@ console.log(a, 'Questo invece è il datatype "Boolean" che è fatto di soli 2 va
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log('ESERCIZIO 2')
 const myName = 'Jonathan'
 console.log(myName)
 
@@ -31,6 +32,7 @@ console.log(myName)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log('ESERCIZIO 3')
 var addizione1 = 12
 var addizione2 = 20
 var risultatoAddizione = addizione1+addizione2
@@ -41,6 +43,7 @@ console.log("Somma dell'addizione tra", addizione1, "e", addizione2, "equivale a
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log('ESERCIZIO 4')
 var x = 12
 console.log("Il valore della variabile 'x' è", x)
 
@@ -50,8 +53,9 @@ console.log("Il valore della variabile 'x' è", x)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*myName = 'Bergadano'
-console.log(myName)*/
+console.log('ESERCIZIO 5')
+try {myName = 'Bergadano'}
+catch (error) {console.error("Errore durante la riassegnazione di myName:", error.message);}
 console.log('Una constable è un valore costante che non può essere modificata nuovamente. Per quello al posto di const si dovrà usare var')
 
 /* ESERCIZIO 6
@@ -59,6 +63,7 @@ console.log('Una constable è un valore costante che non può essere modificata 
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log('ESERCIZIO 6')
 var sottrazione = 4
 var risultatoSottrazione = sottrazione-x
 console.log("Somma della sottrazione tra", sottrazione, "e", x, "equivale a", risultatoSottrazione)
@@ -70,6 +75,7 @@ console.log("Somma della sottrazione tra", sottrazione, "e", x, "equivale a", ri
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log('ESERCIZIO 7')
 var name1 = 'john'
 var name2 = 'John'
 var nomiCombaciano = (name1 == name2)
